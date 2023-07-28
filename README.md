@@ -1,1 +1,1 @@
-# Campus-Management-System-SmartInternz
+# Campus-Management-System
